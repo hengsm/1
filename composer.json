@@ -1,0 +1,7 @@
+{
+  "name": "hengsm/laravel",
+  "require": {
+    "php": "^8.0",
+    "laravel/framework": "^10.0"
+  }
+}
